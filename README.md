@@ -8,6 +8,12 @@ En lokal almenvidenquiz til en quizaften med venner. Quizmasteren styrer det hel
 - Kategoriresultater, delte placeringer og samlet vinder.
 - Automatisk lokal JSON-gemning, sikkerhedskopier og fuld genstart.
 
+## Spil online
+
+[Åbn Quizklubben](https://kristianboserup.github.io/quizklubben/)
+
+Onlineudgaven gemmer deltagere og resultater i browseren på din egen enhed. Der sendes ingen quizresultater til GitHub. Brug JSON-sikkerhedskopi for at flytte en quiz til en anden computer. Den lokale Python-udgave gemmer stadig automatisk i en JSON-fil på disken.
+
 ## Start lokalt
 
 Python 3.9 eller nyere kræves. Ingen ekstra Python-pakker.
